@@ -11,7 +11,7 @@ Este repositório não tem um propósito fixo. A ideia é justamente essa.
 Aqui você ira econtrar:
 
 * Teste de códigos
-* Aprender coisas novas (ou nao0
+* Aprender coisas novas (ou nao)
 * ideias aleatórias
 * projetos pequenos sem compromisso
 
